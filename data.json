@@ -1,0 +1,178 @@
+{
+	"objects": [
+		{
+			"name": "C. C. Alarico de Souza",
+			"address": "Est. Alarico de Souza, 545 - Stª Rosa",
+			"geometry": [-43.086548,-22.900784],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Amigos do Jacaré",
+			"address": "Est. Frei Orlando, 499- Jacaré",
+			"geometry": [-43.044613,-22.912899],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Anália Franco",
+			"address": "R. Martins Torres, 479 - Stª Rosa",
+			"geometry": [-43.088256,-22.898631],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Basílio Neves",
+			"address": "R. 4, Lt 13 Q-A – Estrada do Engenho do Mato - Itaipu",
+			"geometry": [-42.997266,-22.934446],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Betânia",
+			"address": "Av. Rui Barbosa, 671/679 - São Francisco",
+			"geometry": [-43.079530,-22.912574],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Cafubá",
+			"address": "R. Salomão Vergueiro da Cruz,1076 - Cafubá",
+			"geometry": [-43.068436,-22.934619],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Cidade dos Menores",
+			"address": "R. Nossa Srª das Graças, 474 - Stª Rosa",
+			"geometry": [-43.079355,-22.906028],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Criança Esperança",
+			"address": "R. João Dalossi-  Trav. 7 e 8 - Vital Brazil",
+			"geometry": [-43.093066,-22.907134],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Cristo Vive",
+			"address": "Trav. Beltrão, 166 fundos - Beltrão",
+			"geometry": [-43.085755,-22.902768],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Disp. São Vicente de Paulo",
+			"address": "R. Miguel Vieira Ferreira 147 - Icaraí",
+			"geometry": [-43.105522,-22.907263],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Dom Orione",
+			"address": "R. Quintino Boacaiúva, s/nº - São Francisco",
+			"geometry": [-43.094640,-22.921815],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Ercílio Marques",
+			"address": "R. Washington Luiz, R 9, nº 7 LT 17 - Sapê",
+			"geometry": [-43.057482,-22.897681],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Esperança em Cristo",
+			"address": "Av. Francisco da Cruz Nunes, 3003 - Itaipu",
+			"geometry": [-43.057167,-22.941846],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Instituto Dr. March",
+			"address": "R. Desembargador Lima Castro, 235 - Fonseca",
+			"geometry": [-43.086295,-22.886693],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Irmã Catarina",
+			"address": "Alameda Jandira Fróes, 1037 A - São Francisco",
+			"geometry": [-43.097928,-22.913332],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Jóias de Cristo",
+			"address": "R. XV de Novembro, 179 - Centro",
+			"geometry": [-43.119760,-22.896373],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Jurujuba",
+			"address": "Av. Carlos Ermelindo Marins, 153 - Jurujuba",
+			"geometry": [-43.116373,-22.931793],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Kairós",
+			"address": "Rua 3 Lt 18 Qd 59 – Engenho do Mato",
+			"geometry": [-43.023524,-22.933359],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Maceió (Newton Pires Rosa)",
+			"address": "R. Prof. Roberto Lira, 09 - Maceió",
+			"geometry": [-43.071897,-22.913106],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Madre Mary Marcelline",
+			"address": "R. Tenente Osório, 30 – Vila Ipiranga - Fonseca",
+			"geometry": [-43.091849,-22.878715],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Medalha Milagrosa",
+			"address": "Alameda Paris, 56 - Morro do Cavalão - Icaraí",
+			"geometry": [-43.101437,-22.911984],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Meimei",
+			"address": "R. das Graças, Lt 03, Q 166 - Piratininga",
+			"geometry": [-43.070393,-22.939155],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Minha Querência",
+			"address": "R. Demócrito da Cunha Silveira,Lt14 Qd 64 Cafubá",
+			"geometry": [-43.073291,-22.931540],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Nossa Senhora Aparecida",
+			"address": "R. Jorge Nemmer, nº 03- Ingá",
+			"geometry": [-43.127961,-22.904577],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Profª. Clélia Rocha",
+			"address": "R. Jean V. Moulliac, 47 – Várzea das Moças",
+			"geometry": [-42.988420,-22.904711],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Prof. Geraldo C. Albuquerque",
+			"address": "R. Gal. Andrade Neves, 307 – São Domingos",
+			"geometry": [-43.127572,-22.900274],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Prof. Lenilda Soares Cunha",
+			"address": "R. Leonel Brizola, s/nº - Morro do Palácio - Ingá",
+			"geometry": [-43.127971,-22.904963],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. Rosalda Paim (UFF)",
+			"address": "R. Dr. Celestino,78 - Centro",
+			"geometry": [-43.116389,-22.895286],
+			"type": "Creche Comunitária"
+		},
+		{
+			"name": "C. C. São Lourenço",
+			"address": "Prç. Dom Agostinho Benassis, s/nº - Ponto Cem Réis - Fonseca",
+			"geometry": [-43.108425,-22.881249],
+			"type": "Creche Comunitária"
+		}
+	]
+}
