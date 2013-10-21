@@ -643,6 +643,181 @@
 			"address": "R. Tenente Osório,73 - Fonseca",
 			"geometry": [-43.092169,-22.878232],
 			"type": "Núcleo Avançado de Educação Infantil"
+		},
+		{
+			"name": "UMEI Alberto de Oliveira",
+			"address": "R. Evaristo da Veiga, 108 - Centro",
+			"geometry": [-43.115958,-22.892929],
+			"type": "Unidade Municipal de Educação Infantil"
+		},
+		{
+			"name": "UMEI Antonio Vieira da Rocha",
+			"address": "R. Araújo Pimenta, s/nº - Morro da Estado",
+			"geometry": [-43.120654,-22.899944],
+			"type": "Unidade Municipal de Educação Infantil",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "UMEI Elenir Ramos Meirelles",
+			"address": "R. das Flores, 99 - Badu",
+			"geometry": [-43.052750,-22.900560],
+			"type": "Unidade Municipal de Educação Infantil",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "UMEI G. M. Bezerra de Menezes",
+			"address": "Rua Mário Vianna, 589 - Santa Rosa",
+			"geometry": [-43.090545,-22.905044],
+			"type": "Unidade Municipal de Educação Infantil"
+		},
+		{
+			"name": "UMEI Gabriela Mistral",
+			"address": "Est. Caetano Monteiro, 820 - Pendotiba",
+			"geometry": [-43.060171,-22.907468],
+			"type": "Unidade Municipal de Educação Infantil",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "UMEI Hermógenes Reis",
+			"address": "R. Nestor Perlingeiro, s/nº - Stª Bárbara",
+			"geometry": [-43.047881,-22.877118],
+			"type": "Unidade Municipal de Educação Infantil",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "UMEI Hilka de Araujo Peçanha",
+			"address": "Rua Itaguaí, 148 - Santa Rosa",
+			"geometry": [-43.102574,-22.896902],
+			"type": "Unidade Municipal de Educação Infantil"
+		},
+		{
+			"name": "UMEI Iguatemi Coquinot",
+			"address": "R. Orêncio de Freitas, s/nº - Morro dos Marítimos",
+			"geometry": [-43.094982,-22.864901],
+			"type": "Unidade Municipal de Educação Infantil"
+		},
+		{
+			"name": "UMEI Julieta Botelho",
+			"address": "Alam. São Boaventura, 30 - Fonseca",
+			"geometry": [-43.108507,-22.880467],
+			"type": "Unidade Municipal de Educação Infantil"
+		},
+		{
+			"name": "UMEI Lisaura Machado Ruas",
+			"address": "R. Arthur Bento Moura, 79 - Badu",
+			"geometry": [-43.061212,-22.904633],
+			"type": "Unidade Municipal de Educação Infantil",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "UMEI Lizete Maciel",
+			"address": "Estrada Frei Orlando, 325 - Jacaré",
+			"geometry": [-43.031204,-22.923185],
+			"type": "Unidade Municipal de Educação Infantil",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "UMEI Luiz Eduardo Travassos",
+			"address": "R. A, 80 - Caramujo",
+			"geometry": [-43.067586,-22.891437],
+			"type": "Unidade Municipal de Educação Infantil",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "UMEI Margareth Flores",
+			"address": "Rua Albino Pereira, altura do nº 398 – São Francisco",
+			"geometry": [-43.075161,-22.907712],
+			"type": "Unidade Municipal de Educação Infantil",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "UMEI Maria José B. Mansur",
+			"address": "Rua Magnólia Brasil, nº 68",
+			"geometry": [-43.102022,-22.882510],
+			"type": "Unidade Municipal de Educação Infantil"
+		},
+		{
+			"name": "UMEI Maria Luiza Sampaio",
+			"address": "R. São Caetano, 30 - Charitas",
+			"geometry": [-43.096519,-22.931669],
+			"type": "Unidade Municipal de Educação Infantil"
+		},
+		{
+			"name": "UMEI Neuza Brizola",
+			"address": "R. Prof. João Brazil, 1960 - Engenhoca",
+			"geometry": [-43.089653,-22.866618],
+			"type": "Unidade Municipal de Educação Infantil"
+		},
+		{
+			"name": "UMEI Odete Rosa da Mota",
+			"address": "R. Dr. Cícero Barreto 39 (antiga R. 30) - Itaipu",
+			"geometry": [-43.022088,-22.936107],
+			"type": "Unidade Municipal de Educação Infantil",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "UMEI Piratininga",
+			"address": "R. Acúrcio Torres, quadra 6 - Piratininga",
+			"geometry": [-43.094130,-22.950968],
+			"type": "Unidade Municipal de Educação Infantil",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "UMEI Portugal Pequeno",
+			"address": "R. Visconde de Itaboraí, 20 - Ponta da Areia",
+			"geometry": [-43.122951,-22.882051],
+			"type": "Unidade Municipal de Educação Infantil"
+		},
+		{
+			"name": "UMEI Profº Írio Molinari",
+			"address": "R. Jornalista Sardo Filho, 255 - Ilha da Conceição",
+			"geometry": [-43.116516,-22.873031],
+			"type": "Unidade Municipal de Educação Infantil",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "UMEI Profº Nilo Neves",
+			"address": "R. Silveira da Mota, s/nº - Boa Vista",
+			"geometry": [-43.107500,-22.886929],
+			"type": "Unidade Municipal de Educação Infantil"
+		},
+		{
+			"name": "UMEI Profª Áurea Trindade Pimentel de Menezes",
+			"address": "Rua Cícero Barreto, 39 – Itaipu (Antiga rua 13)",
+			"geometry": [-43.021805,-22.936465],
+			"type": "Unidade Municipal de Educação Infantil",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "UMEI Profª Denise Mendes Cardia",
+			"address": "R. José Bonifácio, 56 - São Domingos",
+			"geometry": [-43.128739,-22.900306],
+			"type": "Unidade Municipal de Educação Infantil"
+		},
+		{
+			"name": "UMEI Profª Marilza da Conceição Rocha Medina",
+			"address": "Rua Dr. Conrado Barbosa de Souza, s/n - Fonseca",
+			"geometry": [-43.097266,-22.878180],
+			"type": "Unidade Municipal de Educação Infantil",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "UMEI Renata Magaldi",
+			"address": "Trav. Aires Lemos, s/nº - Fonseca",
+			"geometry": [-43.077616,-22.877896],
+			"type": "Unidade Municipal de Educação Infantil"
+		},
+		{
+			"name": "UMEI Rosalina de Araújo",
+			"address": "R. Galvão, 193 - Barreto",
+			"geometry": [-43.100122,-22.864662],
+			"type": "Unidade Municipal de Educação Infantil"
+		},
+		{
+			"name": "UMEI Sen. Vasconcelos Torres",
+			"address": "Rua Santa Rosa, 157 - Santa Rosa",
+			"geometry": [-43.100597,-22.900786],
+			"type": "Unidade Municipal de Educação Infantil"
 		}
 	]
 }
