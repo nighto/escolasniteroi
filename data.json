@@ -10,7 +10,8 @@
 			"name": "C. C. Amigos do Jacaré",
 			"address": "Est. Frei Orlando, 499- Jacaré",
 			"geometry": [-43.044613,-22.912899],
-			"type": "Creche Comunitária"
+			"type": "Creche Comunitária",
+			"aproximate_position": "yes"
 		},
 		{
 			"name": "C. C. Anália Franco",
@@ -22,7 +23,8 @@
 			"name": "C. C. Basílio Neves",
 			"address": "R. 4, Lt 13 Q-A – Estrada do Engenho do Mato - Itaipu",
 			"geometry": [-42.997266,-22.934446],
-			"type": "Creche Comunitária"
+			"type": "Creche Comunitária",
+			"aproximate_position": "yes"
 		},
 		{
 			"name": "C. C. Betânia",
@@ -46,7 +48,8 @@
 			"name": "C. C. Criança Esperança",
 			"address": "R. João Dalossi-  Trav. 7 e 8 - Vital Brazil",
 			"geometry": [-43.093066,-22.907134],
-			"type": "Creche Comunitária"
+			"type": "Creche Comunitária",
+			"aproximate_position": "yes"
 		},
 		{
 			"name": "C. C. Cristo Vive",
@@ -58,25 +61,29 @@
 			"name": "C. C. Disp. São Vicente de Paulo",
 			"address": "R. Miguel Vieira Ferreira 147 - Icaraí",
 			"geometry": [-43.105522,-22.907263],
-			"type": "Creche Comunitária"
+			"type": "Creche Comunitária",
+			"aproximate_position": "yes"
 		},
 		{
 			"name": "C. C. Dom Orione",
 			"address": "R. Quintino Boacaiúva, s/nº - São Francisco",
 			"geometry": [-43.094640,-22.921815],
-			"type": "Creche Comunitária"
+			"type": "Creche Comunitária",
+			"aproximate_position": "yes"
 		},
 		{
 			"name": "C. C. Ercílio Marques",
 			"address": "R. Washington Luiz, R 9, nº 7 LT 17 - Sapê",
 			"geometry": [-43.057482,-22.897681],
-			"type": "Creche Comunitária"
+			"type": "Creche Comunitária",
+			"aproximate_position": "yes"
 		},
 		{
 			"name": "C. C. Esperança em Cristo",
 			"address": "Av. Francisco da Cruz Nunes, 3003 - Itaipu",
 			"geometry": [-43.057167,-22.941846],
-			"type": "Creche Comunitária"
+			"type": "Creche Comunitária",
+			"aproximate_position": "yes"
 		},
 		{
 			"name": "C. C. Instituto Dr. March",
@@ -88,7 +95,8 @@
 			"name": "C. C. Irmã Catarina",
 			"address": "Alameda Jandira Fróes, 1037 A - São Francisco",
 			"geometry": [-43.097928,-22.913332],
-			"type": "Creche Comunitária"
+			"type": "Creche Comunitária",
+			"aproximate_position": "yes"
 		},
 		{
 			"name": "C. C. Jóias de Cristo",
@@ -100,19 +108,22 @@
 			"name": "C. C. Jurujuba",
 			"address": "Av. Carlos Ermelindo Marins, 153 - Jurujuba",
 			"geometry": [-43.116373,-22.931793],
-			"type": "Creche Comunitária"
+			"type": "Creche Comunitária",
+			"aproximate_position": "yes"
 		},
 		{
 			"name": "C. C. Kairós",
 			"address": "Rua 3 Lt 18 Qd 59 – Engenho do Mato",
 			"geometry": [-43.023524,-22.933359],
-			"type": "Creche Comunitária"
+			"type": "Creche Comunitária",
+			"aproximate_position": "yes"
 		},
 		{
 			"name": "C. C. Maceió (Newton Pires Rosa)",
 			"address": "R. Prof. Roberto Lira, 09 - Maceió",
 			"geometry": [-43.071897,-22.913106],
-			"type": "Creche Comunitária"
+			"type": "Creche Comunitária",
+			"aproximate_position": "yes"
 		},
 		{
 			"name": "C. C. Madre Mary Marcelline",
@@ -124,13 +135,15 @@
 			"name": "C. C. Medalha Milagrosa",
 			"address": "Alameda Paris, 56 - Morro do Cavalão - Icaraí",
 			"geometry": [-43.101437,-22.911984],
-			"type": "Creche Comunitária"
+			"type": "Creche Comunitária",
+			"aproximate_position": "yes"
 		},
 		{
 			"name": "C. C. Meimei",
 			"address": "R. das Graças, Lt 03, Q 166 - Piratininga",
 			"geometry": [-43.070393,-22.939155],
-			"type": "Creche Comunitária"
+			"type": "Creche Comunitária",
+			"aproximate_position": "yes"
 		},
 		{
 			"name": "C. C. Minha Querência",
@@ -148,7 +161,8 @@
 			"name": "C. C. Profª. Clélia Rocha",
 			"address": "R. Jean V. Moulliac, 47 – Várzea das Moças",
 			"geometry": [-42.988420,-22.904711],
-			"type": "Creche Comunitária"
+			"type": "Creche Comunitária",
+			"aproximate_position": "yes"
 		},
 		{
 			"name": "C. C. Prof. Geraldo C. Albuquerque",
@@ -173,6 +187,261 @@
 			"address": "Prç. Dom Agostinho Benassis, s/nº - Ponto Cem Réis - Fonseca",
 			"geometry": [-43.108425,-22.881249],
 			"type": "Creche Comunitária"
+		},
+		{
+			"name": "E. M. Adelino Magalhães",
+			"address": "R. Dr. Nelson Penna, 17 - Engenhoca",
+			"geometry": [-43.094407,-22.874008],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Alberto Brandão",
+			"address": "R. Castro Alves, s/nº - Fonseca",
+			"geometry": [-43.072603,-22.883301],
+			"type": "Escola Municipal",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "E. M. Alberto Francisco Torres",
+			"address": "R. Prof. Ismael Coutinho, 88 - Centro",
+			"geometry": [-43.117017,-22.895439],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Altivo César",
+			"address": "R. Dr. Luiz Palmier, 25 - Barreto",
+			"geometry": [-43.099675,-22.864446],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Antonio Coutinho",
+			"address": "R. Nestor Perlingeiro, s/nº - Stª Bárbara",
+			"geometry": [-43.048667,-22.875587],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Bolívia de Lima Gaétho",
+			"address": "Est. Sen. Fernando da Cunha-s/nº-Rio do Ouro",
+			"geometry": [-42.994986,-22.898248],
+			"type": "Escola Municipal",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "E. M. Demenciano de Moura",
+			"address": "Rua Magnólia Brasil, nº 68",
+			"geometry": [-43.101910,-22.882505],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Diógenes R. de Mendonça",
+			"address": "Est. Caetano Monteiro, s/nº - Penditiba",
+			"geometry": [-43.047157,-22.903123],
+			"type": "Escola Municipal",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "E. M. Djalma Coutinho",
+			"address": "Rua Cinco de Março, 75 - Fonseca",
+			"geometry": [-43.077032,-22.871948],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Dom José Pereira Alves",
+			"address": "R. Tenente Osório, 73 - Fonseca",
+			"geometry": [-43.092180,-22.878156],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Ernani Moreira Franco",
+			"address": "R. Bonfim, s/nº - Fonseca",
+			"geometry": [-43.074299,-22.880963],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Eulália da S. Bragança",
+			"address": "Est. Frei Orlando, s/nº - Piratininga",
+			"geometry": [-43.045318,-22.928976],
+			"type": "Escola Municipal",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "E. M. Felisberto de Carvalho",
+			"address": "Est. Caetano Monteiro, 896-Vila Progresso",
+			"geometry": [-43.060257,-22.907378],
+			"type": "Escola Municipal",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "E. M. Francisco Portugal Neves",
+			"address": "R. Quatorze, 14 - Piratininga",
+			"geometry": [-43.028914,-22.930179],
+			"type": "Escola Municipal",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "E. M. Helena Antipoff",
+			"address": "Av. Rui Barbosa, 388 - São Francisco",
+			"geometry": [-43.085260,-22.917223],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Honorina de Carvalho",
+			"address": "R. Prof. José Peçanha, s/nº - Pendotiba",
+			"geometry": [-43.026626,-22.882126],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Horácio Pacheco",
+			"address": "Av. Celso Peçanha, s/nº - Cantagalo",
+			"geometry": [-43.081547,-22.906300],
+			"type": "Escola Municipal",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "E. M. Infante Dom Henrique",
+			"address": "R. Prof. João Brasil, 2000 - Engenhoca",
+			"geometry": [-43.089540,-22.866511],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Jacinta Medela",
+			"address": "R. Tenente Osório, 10 - Fonseca",
+			"geometry": [-43.091830,-22.879007],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Julia Cortines",
+			"address": "R. Lopes Trovão, s/nº - Icaraí",
+			"geometry": [-43.108791,-22.904382],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Levi Carneiro",
+			"address": "Estrada do Sapê, 488 - Pendotiba",
+			"geometry": [-43.062884,-22.899553],
+			"type": "Escola Municipal",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "E. M. Lucia Mª Silveira da Rocha",
+			"address": "R. Carlos Ermelindo Marins, 34 - Jurujuba",
+			"geometry": [-43.116443,-22.932324],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Mª Ângela Moreira Pinto",
+			"address": "R. Tupiniquis, 392 - São Francisco",
+			"geometry": [-43.089881,-22.921588],
+			"type": "Escola Municipal",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "E. M. Mª de Lourdes Barbosa Santos",
+			"address": "Rua Leite Ribeiro, nº 120 - Fonseca",
+			"geometry": [-43.094245,-22.884010],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Maestro H. Villa Lobos",
+			"address": "R. Salo Brand, s/nº - Ilha da Conceição",
+			"geometry": [-43.115713,-22.872977],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Mestra Fininha",
+			"address": "R. Dr. Luiz Palmier, 100 - Barreto",
+			"geometry": [-43.098574,-22.864589],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Noronha Santos",
+			"address": "R. Henrique Lage, 184 - Fonseca",
+			"geometry": [-43.082583,-22.870884],
+			"type": "Escola Municipal",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "E. M. Nossa Senhora da Penha",
+			"address": "Lad. Major Rocha, s/nº - Ponta da Areia",
+			"geometry": [-43.123779,-22.879740],
+			"type": "Escola Municipal",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "E. M. Padre Leonel Franca",
+			"address": "Rua Santos Moreira, 58",
+			"geometry": [-43.090998,-22.903661],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Paulo de Almeida Campos",
+			"address": "R. Gal. Pereira da Silva, 50 - Icaraí",
+			"geometry": [-43.113138,-22.904631],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Paulo Freire",
+			"address": "R. Soares de Miranda, 77 - Fonseca",
+			"geometry": [-43.082554,-22.882926],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Profº André Trouche ",
+			"address": "R. Dr. Luiz Palmier, 100 - Barreto",
+			"geometry": [-43.098960,-22.864853],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Profº Oswaldo Salles Lima",
+			"address": "Rua São Pedro, 108 - Centro",
+			"geometry": [-43.120849,-22.892114],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Profª Elvira Lúcia E. de Vasconcelos",
+			"address": "Trav. Emílio Andrada, 2 - Icaraí",
+			"geometry": [-43.102882,-22.911129],
+			"type": "Escola Municipal",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "E. M. Rachide da Glória Salim Saker",
+			"address": "R. Jandira Pereira, 620/623 - Stª Bárbara",
+			"geometry": [-43.053900,-22.875599],
+			"type": "Escola Municipal",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "E. M. Santos Dumont",
+			"address": "R. Manoel Corrêa, s/nº - Bairro de Fátima",
+			"geometry": [-43.109346,-22.895454],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Sebastiana Gonçalves Pinho",
+			"address": "Est. Viçoso Jardim, s/nº-Viçoso Jardim",
+			"geometry": [-43.081226,-22.894454],
+			"type": "Escola Municipal",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "E. M. Sítio do Ipê",
+			"address": "R. Prof. José Peçanha, s/nº - L. Rem. Verde",
+			"geometry": [-43.026895,-22.881908],
+			"type": "Escola Municipal"
+		},
+		{
+			"name": "E. M. Tiradentes",
+			"address": "R. Dr. March, 628 - Tenente Jardim",
+			"geometry": [-43.080321,-22.864775],
+			"type": "Escola Municipal",
+			"aproximate_position": "yes"
+		},
+		{
+			"name": "NAEI Vila Ipiranga",
+			"address": "R. Tenente Osório,73 - Fonseca",
+			"geometry": [-43.092169,-22.878232],
+			"type": "Núcleo Avançado de Educação Infantil"
 		}
 	]
 }
