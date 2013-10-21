@@ -192,7 +192,11 @@
 			"name": "E. M. Adelino Magalhães",
 			"address": "R. Dr. Nelson Penna, 17 - Engenhoca",
 			"geometry": [-43.094407,-22.874008],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Adelino Magalhães 1.jpg",
+				"EM Adelino Magalhães 2.jpg"
+			]
 		},
 		{
 			"name": "E. M. Alberto Brandão",
@@ -205,19 +209,33 @@
 			"name": "E. M. Alberto Francisco Torres",
 			"address": "R. Prof. Ismael Coutinho, 88 - Centro",
 			"geometry": [-43.117017,-22.895439],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Alberto Torres 1.jpg",
+				"EM Alberto Torres 2.jpg",
+				"EM Alberto Torres  3.jpg"
+			]
 		},
 		{
 			"name": "E. M. Altivo César",
 			"address": "R. Dr. Luiz Palmier, 25 - Barreto",
 			"geometry": [-43.099675,-22.864446],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Altivo Cesar 1.jpg",
+				"EM Altivo Cesar 2.jpg",
+				"EM Altivo Cesar 3.jpg"
+			]
 		},
 		{
 			"name": "E. M. Antonio Coutinho",
 			"address": "R. Nestor Perlingeiro, s/nº - Stª Bárbara",
 			"geometry": [-43.048667,-22.875587],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Antonio Coutinho 1.jpg",
+				"EM Antonio Coutinho 2.jpg"
+			]
 		},
 		{
 			"name": "E. M. Bolívia de Lima Gaétho",
@@ -230,72 +248,140 @@
 			"name": "E. M. Demenciano de Moura",
 			"address": "Rua Magnólia Brasil, nº 68",
 			"geometry": [-43.101910,-22.882505],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Demenciano 1.jpg",
+				"EM Demenciano  2.jpg",
+				"EM Demenciano 3.jpg"
+			]
 		},
 		{
 			"name": "E. M. Diógenes R. de Mendonça",
 			"address": "Est. Caetano Monteiro, s/nº - Penditiba",
 			"geometry": [-43.047157,-22.903123],
 			"type": "Escola Municipal",
-			"aproximate_position": "yes"
+			"aproximate_position": "yes",
+			"photos": [
+				"EM Diógenes R. Mendonça  1.JPG",
+				"EM Diógenes R. Mendonça 2.JPG",
+				"EM Diógenes R. Mendonça 3.JPG",
+				"EM Diógenes R. Mendonça 4.JPG",
+				"EM Diógenes R. Mendonça 5.JPG",
+				"EM Diógenes R. Mendonça 6.JPG",
+				"EM Diógenes R. Mendonça 7.JPG"
+			]
 		},
 		{
 			"name": "E. M. Djalma Coutinho",
 			"address": "Rua Cinco de Março, 75 - Fonseca",
 			"geometry": [-43.077032,-22.871948],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Djalma Coutinho  1.jpg",
+				"EM Djalma Coutinho  2.jpg"
+			]
 		},
 		{
 			"name": "E. M. Dom José Pereira Alves",
 			"address": "R. Tenente Osório, 73 - Fonseca",
 			"geometry": [-43.092180,-22.878156],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Dom José  1.jpg",
+				"EM Dom José  2.jpg",
+				"EM Dom José 3.jpg"
+			]
 		},
 		{
 			"name": "E. M. Ernani Moreira Franco",
 			"address": "R. Bonfim, s/nº - Fonseca",
 			"geometry": [-43.074299,-22.880963],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Ernani 1.jpg",
+				"EM Ernani 2.jpg",
+				"EM Ernani 3.jpg"
+			]
 		},
 		{
 			"name": "E. M. Eulália da S. Bragança",
 			"address": "Est. Frei Orlando, s/nº - Piratininga",
 			"geometry": [-43.045318,-22.928976],
 			"type": "Escola Municipal",
-			"aproximate_position": "yes"
+			"aproximate_position": "yes",
+			"photos": [
+				"EM Eulália 1.jpg",
+				"EM Eulália 2.jpg",
+				"EM Eulália 3.jpg"
+			]
 		},
 		{
 			"name": "E. M. Felisberto de Carvalho",
 			"address": "Est. Caetano Monteiro, 896-Vila Progresso",
 			"geometry": [-43.060257,-22.907378],
 			"type": "Escola Municipal",
-			"aproximate_position": "yes"
+			"aproximate_position": "yes",
+			"photos": [
+				"EM Felisberto 1.jpg",
+				"EM Felisberto 2.jpg"
+			]
 		},
 		{
 			"name": "E. M. Francisco Portugal Neves",
 			"address": "R. Quatorze, 14 - Piratininga",
 			"geometry": [-43.028914,-22.930179],
 			"type": "Escola Municipal",
-			"aproximate_position": "yes"
+			"aproximate_position": "yes",
+			"photos": [
+				"EM Francisco Portugal Neves 1.jpg",
+				"EM Francisco Portugal Neves 2.jpg",
+				"EM Francisco Portugal Neves.jpg",
+				"EM Francisco Portugal Neves 4.jpg",
+				"EM Francisco Portugal Neves 5.jpg"
+			]
 		},
 		{
 			"name": "E. M. Helena Antipoff",
 			"address": "Av. Rui Barbosa, 388 - São Francisco",
 			"geometry": [-43.085260,-22.917223],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Helena Antipoff 1.jpg",
+				"EM Helena Anipoff 2.jpg",
+				"EM Helena Antipoff 3.jpg"
+			]
 		},
 		{
 			"name": "E. M. Honorina de Carvalho",
 			"address": "R. Prof. José Peçanha, s/nº - Pendotiba",
 			"geometry": [-43.026626,-22.882126],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Honorina 1.jpg",
+				"EM Honorina 2.jpg",
+				"EM Honorina 6.jpg",
+				"EM Honorina Quadra 2 (1).jpg",
+				"EM Honorina Quadra 2 (2).jpg",
+				"EM Honorina Quadra 2 (3).jpg",
+				"EM Honorina Quadra 2 (4).jpg",
+				"EM Honorina Quadra 2 (5).jpg"
+			]
 		},
 		{
 			"name": "E. M. Horácio Pacheco",
 			"address": "Av. Celso Peçanha, s/nº - Cantagalo",
 			"geometry": [-43.081547,-22.906300],
 			"type": "Escola Municipal",
-			"aproximate_position": "yes"
+			"aproximate_position": "yes",
+			"photos": [
+				"EM Infante  Quadra 1(1).jpg",
+				"EM Infante Quadra 1 (2).jpg",
+				"EM Infante Quadra 1 (3).jpg",
+				"EM Infante Quadra 2( 1).JPG",
+				"EM Infante Quadra 2 (2).JPG",
+				"EM Infante Quadra 2 (3).JPG",
+				"EM Infante Quadra 2 (4).JPG"
+			]
 		},
 		{
 			"name": "E. M. Infante Dom Henrique",
@@ -307,89 +393,168 @@
 			"name": "E. M. Jacinta Medela",
 			"address": "R. Tenente Osório, 10 - Fonseca",
 			"geometry": [-43.091830,-22.879007],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Jacinta Medela 1.jpg",
+				"EM Jacinta Medela 2.jpg",
+				"EM Jacinta Medela 3.jpg",
+				"EM Jacinta Medela 5.jpg"
+			]
 		},
 		{
 			"name": "E. M. Julia Cortines",
 			"address": "R. Lopes Trovão, s/nº - Icaraí",
 			"geometry": [-43.108791,-22.904382],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Julia Cortines 1.jpg",
+				"EM Julia Cortines 2.jpg"
+			]
 		},
 		{
 			"name": "E. M. Levi Carneiro",
 			"address": "Estrada do Sapê, 488 - Pendotiba",
 			"geometry": [-43.062884,-22.899553],
 			"type": "Escola Municipal",
-			"aproximate_position": "yes"
+			"aproximate_position": "yes",
+			"photos": [
+				"EM Levi 1.jpg",
+				"EM Levi 2.jpg",
+				"EM Levi 3.jpg"
+			]
 		},
 		{
 			"name": "E. M. Lucia Mª Silveira da Rocha",
 			"address": "R. Carlos Ermelindo Marins, 34 - Jurujuba",
 			"geometry": [-43.116443,-22.932324],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Lucia Maria 1.jpg",
+				"EM Lucia Maria  2.jpg",
+				"EM Lucia Maria  3.jpg",
+				"EM Lucia Maria  4.jpg"
+			]
 		},
 		{
 			"name": "E. M. Mª Ângela Moreira Pinto",
 			"address": "R. Tupiniquis, 392 - São Francisco",
 			"geometry": [-43.089881,-22.921588],
 			"type": "Escola Municipal",
-			"aproximate_position": "yes"
+			"aproximate_position": "yes",
+			"photos": [
+				"EM Maria Ângela 1.jpg",
+				"EM Maria Ângela 2.jpg"
+			]
 		},
 		{
 			"name": "E. M. Mª de Lourdes Barbosa Santos",
 			"address": "Rua Leite Ribeiro, nº 120 - Fonseca",
 			"geometry": [-43.094245,-22.884010],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Maria de Lourdes 1.jpg",
+				"EM Maria de Lourdes 2.jpg",
+				"EM Maria de Lourdes 3.jpg"
+			]
 		},
 		{
 			"name": "E. M. Maestro H. Villa Lobos",
 			"address": "R. Salo Brand, s/nº - Ilha da Conceição",
 			"geometry": [-43.115713,-22.872977],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Heitor Villa Lobo 1.jpg",
+				"EM Heitor Villa Lobo 2.jpg",
+				"EM Heitor Villa Lobo 3.jpg",
+				"EM Heitor Villa Lobo 4.jpg"
+			]
 		},
 		{
 			"name": "E. M. Mestra Fininha",
 			"address": "R. Dr. Luiz Palmier, 100 - Barreto",
 			"geometry": [-43.098574,-22.864589],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Mestra Fininha 1.jpg",
+				"EM Mestra Fininha 2.jpg",
+				"EM Mestra Fininha 3.jpg"
+			]
 		},
 		{
 			"name": "E. M. Noronha Santos",
 			"address": "R. Henrique Lage, 184 - Fonseca",
 			"geometry": [-43.082583,-22.870884],
 			"type": "Escola Municipal",
-			"aproximate_position": "yes"
+			"aproximate_position": "yes",
+			"photos": [
+				"EM Noronha Santos 1.jpg",
+				"EM Noronha Santos 2.jpg",
+				"EM Noronha Santos 3.jpg",
+				"EM Noronha Santos 4.jpg",
+				"EM Noronha Santos 5.jpg",
+				"EM Noronha Santos 6.jpg",
+				"EM Noronha Santos 7.jpg"
+			]
 		},
 		{
 			"name": "E. M. Nossa Senhora da Penha",
 			"address": "Lad. Major Rocha, s/nº - Ponta da Areia",
 			"geometry": [-43.123779,-22.879740],
 			"type": "Escola Municipal",
-			"aproximate_position": "yes"
+			"aproximate_position": "yes",
+			"photos": [
+				"EM Nossa Senhora da Penha 1.jpg",
+				"EM Nossa Senhora da Penha 2.jpg"
+			]
 		},
 		{
 			"name": "E. M. Padre Leonel Franca",
 			"address": "Rua Santos Moreira, 58",
 			"geometry": [-43.090998,-22.903661],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Padre Leonel 1.jpg",
+				"EM Padre Leonel 2.jpg",
+				"EM Padre Leonel 3.jpg",
+				"EM Padre Leonel 4.jpg",
+				"EM Padre Leonel 5.jpg",
+				"EM Padre Leonel 6.jpg"
+			]
 		},
 		{
 			"name": "E. M. Paulo de Almeida Campos",
 			"address": "R. Gal. Pereira da Silva, 50 - Icaraí",
 			"geometry": [-43.113138,-22.904631],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Paulo de Almeida 1.jpg",
+				"EM Paulo de Almeida 2.bmp",
+				"EM Paulo de Almeida 3.bmp"
+			]
 		},
 		{
 			"name": "E. M. Paulo Freire",
 			"address": "R. Soares de Miranda, 77 - Fonseca",
 			"geometry": [-43.082554,-22.882926],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Paulo Freire Quadra 1 (1).jpg",
+				"EM Paulo Freire Quadra 1(2).jpg",
+				"EM Paulo Freire Quadra 1(3).jpg",
+				"EM Paulo Freire Quadra 2 (1).jpg",
+				"EM Paulo Freire Quadra 2(2).jpg",
+				"EM Paulo Freire Quadra 2 (3).jpg"
+			]
 		},
 		{
-			"name": "E. M. Profº André Trouche ",
+			"name": "E. M. Profº André Trouche",
 			"address": "R. Dr. Luiz Palmier, 100 - Barreto",
 			"geometry": [-43.098960,-22.864853],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Andre Trouche 1.jpg",
+				"EM Andre Trouche 2.jpg"
+			]
 		},
 		{
 			"name": "E. M. Profº Oswaldo Salles Lima",
@@ -402,40 +567,76 @@
 			"address": "Trav. Emílio Andrada, 2 - Icaraí",
 			"geometry": [-43.102882,-22.911129],
 			"type": "Escola Municipal",
-			"aproximate_position": "yes"
+			"aproximate_position": "yes",
+			"photos": [
+				"EM Elvira Maria 1.jpg",
+				"EM Elvira Maria 2.jpg",
+				"EM Elvira Maria 3.jpg",
+				"EM Elvira Maria 4.jpg",
+				"EM Elvira Maria 5.jpg",
+				"EM Elvira Maria 6.jpg",
+				"EM Elvira Maria 7.jpg",
+				"EM Elvira Maria  1.jpg"
+			]
 		},
 		{
 			"name": "E. M. Rachide da Glória Salim Saker",
 			"address": "R. Jandira Pereira, 620/623 - Stª Bárbara",
 			"geometry": [-43.053900,-22.875599],
 			"type": "Escola Municipal",
-			"aproximate_position": "yes"
+			"aproximate_position": "yes",
+			"photos": [
+				"EM Rachide 1.jpg",
+				"EM Rachide 2.jpg"
+			]
 		},
 		{
 			"name": "E. M. Santos Dumont",
 			"address": "R. Manoel Corrêa, s/nº - Bairro de Fátima",
 			"geometry": [-43.109346,-22.895454],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Santos Dumont 1.jpg",
+				"EM Santos Dumont 2.jpg",
+				"EM Santos Dumont 3.jpg"
+			]
 		},
 		{
 			"name": "E. M. Sebastiana Gonçalves Pinho",
 			"address": "Est. Viçoso Jardim, s/nº-Viçoso Jardim",
 			"geometry": [-43.081226,-22.894454],
 			"type": "Escola Municipal",
-			"aproximate_position": "yes"
+			"aproximate_position": "yes",
+			"photos": [
+				"EM Sebastiana 1.jpg",
+				"EM Sebastiana 2.jpg",
+				"EM Sebastiana 3.jpg",
+				"EM Sebastiana 4.jpg",
+				"EM Sebastiana 5.jpg",
+				"EM Sebastiana 6.jpg"
+			]
 		},
 		{
 			"name": "E. M. Sítio do Ipê",
 			"address": "R. Prof. José Peçanha, s/nº - L. Rem. Verde",
 			"geometry": [-43.026895,-22.881908],
-			"type": "Escola Municipal"
+			"type": "Escola Municipal",
+			"photos": [
+				"EM Sitio 1.jpg",
+				"EM Sitio 2.jpg"
+			]
 		},
 		{
 			"name": "E. M. Tiradentes",
 			"address": "R. Dr. March, 628 - Tenente Jardim",
 			"geometry": [-43.080321,-22.864775],
 			"type": "Escola Municipal",
-			"aproximate_position": "yes"
+			"aproximate_position": "yes",
+			"photos": [
+				"EM Tiradentes 1.jpg",
+				"EM Tiradentes 2.jpg",
+				"EM Tiradentes 3.jpg"
+			]
 		},
 		{
 			"name": "NAEI Vila Ipiranga",

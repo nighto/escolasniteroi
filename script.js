@@ -23,7 +23,7 @@ function initializeMap(){
 
     L.tileLayer('http://{s}.tile.cloudmade.com/'+CloudMade_API_key+'/997/256/{z}/{x}/{y}.png', {
         maxZoom: 18,
-        attribution: '&copy; <a href="http://www.educacaoniteroi.com.br/">FME Niterói</a> e <a href="http://openstreetmap.org">OpenStreetMap</a>, <a href="http://opendatacommons.org/licenses/odbl/">ODbL</a>, Imagens © <a href="http://cloudmade.com">CloudMade</a>; Ícones © <a href="http://mapicons.nicolasmollet.com/">MapIcons</a>'
+        attribution: '&copy; <a href="http://www.educacaoniteroi.com.br/">FME Niterói</a> e <a href="http://openstreetmap.org">OpenStreetMap</a>, <a href="http://opendatacommons.org/licenses/odbl/">ODbL</a>, Gráficos <a href="http://cloudmade.com">CloudMade</a> e <a href="http://mapicons.nicolasmollet.com/">MapIcons</a>'
     }).addTo(map);
 
     // defining geolocalization functions
@@ -121,7 +121,17 @@ function addPins(elements, id){
         if(elements[i].aproximate_position !== undefined && elements[i].aproximate_position == 'yes')
             popupText += '<br>(Posição Aproximada)';
 
-        var elementIcon = new DefaultIcon({iconUrl: 'img/'+id+'.png'});
+        if(elements[i].photos !== undefined){
+            popupText += '<br>Fotos:<br>';
+            for(var f=0, qtdFotos=elements[i].photos.length, fNum; f<qtdFotos; f++){
+                fNum = f+1;
+                if(f>0)
+                    popupText += ' - ';
+                popupText += '<a target="_blank" href="photos/'+elements[i].photos[f]+'">Foto '+fNum+'</a>';
+            }
+        }
+
+        var elementIcon = new DefaultIcon({iconUrl: 'icons/'+id+'.png'});
 
         // creating a marker for every point and pushing to the array
         markerArray.push( L.marker( [lat, lon], {icon: elementIcon} ).bindPopup(popupText) );
