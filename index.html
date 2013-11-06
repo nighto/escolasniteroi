@@ -8,23 +8,30 @@
     <meta name="author" content="Arlindo Pereira - http://arlindopereira.com">
 
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css">
+    <link rel="stylesheet" href="style.css">
     <!--[if lte IE 8]><link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css"><![endif]-->
 
     <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-    <style>
-        body {
-            padding: 0;
-            margin: 0;
-        }
-        html, body, #map {
-            height: 100%;
-        }
-    </style>
 </head>
 <body>
     <div id="map"></div>
+    <div id="message">
+        <div class="message-body leaflet-container">
+            <a class="leaflet-popup-close-button message-close-button" href="#close">×</a>
+            <h1>Mapa das Escolas de Niterói</h1>
+            <p>Bem-vindo(a) ao Mapa das Escolas de Niterói. Este mapa mostra informações sobre as 111 escolas e creches de Niterói, divididas nas seguintes categorias:</p>
+            <ul>
+                <li>Creche Comunitária</li>
+                <li>Escola Municipal</li>
+                <li>Núcleo Avançado de Educação Infantil (NAEI)</li>
+                <li>Unidade Municipal de Educação Infantil (UMEI)</li>
+            </ul>
+            <p>Para exibir os pontos no mapa, clique no botão <a class="leaflet-control-layers-toggle" href="#" title="Layers"></a> no canto superior direito. É possível dar zoom no mapa dando um duplo clique ou usando a rodinha do mouse. Clique para continuar.</p>
+            <p class="center"><img src="logo500.jpg" alt="Prefeitura de Niterói - Secretaria de Educação, Ciência e Tecnologia - Fundação Municipal de Educação"></p>
+        </div>
+    </div>
+    <div id="logo"><img src="logo200.jpg" alt="Prefeitura de Niterói - Secretaria de Educação, Ciência e Tecnologia - Fundação Municipal de Educação"></div>
 
     <script src="script.js"></script>
 </body>

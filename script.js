@@ -6,14 +6,15 @@
 
 var MAP_DATA_URL = "data.json";
 var CloudMade_API_key = "ea7350f1880845eabc4585641710ea28";
-var initialLatLon = [-22.941,-43.396];
-var initialZoomLevel = 11;
+var initialLatLon = [-22.9208,-43.0566];
+var initialZoomLevel = 12;
 var map,         // the leaflet map instance
     DefaultIcon; // IconClass to extend with colors
 
 $(document).ready(function(){
     initializeMap();
     getMapData();
+    handleMessageClose();
 });
 
 function initializeMap(){
@@ -27,28 +28,28 @@ function initializeMap(){
     }).addTo(map);
 
     // defining geolocalization functions
-    function onLocationFound(e) {
-        var radius = e.accuracy / 2;
+    // function onLocationFound(e) {
+    //     var radius = e.accuracy / 2;
 
-        L.marker(e.latlng).addTo(map)
-            .bindPopup("Você está num raio de " + ~~radius + " metros deste ponto").openPopup();
+    //     L.marker(e.latlng).addTo(map)
+    //         .bindPopup("Você está num raio de " + ~~radius + " metros deste ponto").openPopup();
 
-        L.circle(e.latlng, radius).addTo(map);
-    }
+    //     L.circle(e.latlng, radius).addTo(map);
+    // }
 
-    function onLocationError(e) {
-        alert(e.message);
-    }
+    // function onLocationError(e) {
+    //     alert(e.message);
+    // }
 
-    map.on('locationfound', onLocationFound);
-    map.on('locationerror', onLocationError);
+    //map.on('locationfound', onLocationFound);
+    //map.on('locationerror', onLocationError);
 
-    map.locate({setView: true, maxZoom: 16}); // don't get too close
+    //map.locate({setView: true, maxZoom: 16}); // don't get too close
 
     // defining map icon
     DefaultIcon = L.Icon.extend({
         options: {
-            shadowUrl: 'img/shadow.png',
+            shadowUrl: 'icons/shadow.png',
             iconSize:     [32, 37], // size of the icon
             shadowSize:   [51, 37], // size of the shadow
             iconAnchor:   [16, 34], // point of the icon which will correspond to marker's location
@@ -139,4 +140,11 @@ function addPins(elements, id){
 
     // returns the layer with all markers
     return L.layerGroup(markerArray);
+};
+
+function handleMessageClose(){
+    $('.message-close-button, #message').on('click', function(){
+        $('#message').remove();
+        $('#logo').show();
+    });
 };
